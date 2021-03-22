@@ -1,0 +1,6 @@
+Tratar dados do arquivo "temp.csv"
+* Aparência: sol; nublado; chuva
+* Temperatura: (-130 ~130 )F, obs.: a temperatura será tratada em Fahrenheit
+* Umidade: (0~100)
+* Jogar: sim; não
+* Tratar valores NAs (not available/não disponível)
